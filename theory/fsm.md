@@ -17,7 +17,7 @@ Staring State            Accepting State
 
 NFA = (Q, ∑, ∆, q0, F)
 Q - all possible states - {A,B}
-∑ - alphabet - {1, 0}
+∑ - alphabet - {1, 0} all character used in our strings
 ∆ - transition fn
 q0- staring state
 F - set of accepting states.
